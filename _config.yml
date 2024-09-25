@@ -22,7 +22,7 @@ repository               : "axr2718/axr2718.github.io"
 author:
   # Biographic information
   avatar           : "me.png"
-  name             : "Adrian"
+  name             : "Adrian Rodriguez"
   pronouns         : "he/him"# example: "she/her"  
   bio              : "Neural Network Pruning, Optimization, and Explainability."
   location         : "Richardson, Texas"
