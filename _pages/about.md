@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my little slice of the internet!"
+title: "Hi, I'm Adrian!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,10 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I'm a final year student at the University of Texas at Dallas where I study Computer Science.
+I'm a final year student at the University of Texas at Dallas where I study Computer Science. I'm also looking to become a Ph.D. candidate.
 
-My research interests are in neural network pruning, optimization, and explainability. I'm also interested in
+My research interests are in neural network pruning, double descent, regularization, andoptimization. I'm also interested in
 multimodal NLP research for linguistics.
+
+# Current Research
 
 I'm currently working with Dr. Richard Golden, Head of the Cognitive Science Department at UT Dallas, 
 at the COINS Lab on statistical methods for pruning dense neural networks using sensitivity-based pruning.
