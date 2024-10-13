@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Adrian Rodriguez"
+title                    : "Adrian's Homepage"
 title_separator          : "-"
 name                     : &name "Adrian Rodriguez"
 description              : &description "personal description"
@@ -22,9 +22,9 @@ repository               : "axr2718/axr2718.github.io"
 author:
   # Biographic information
   avatar           : "me.png"
-  name             : "Aspiring Ph.D. Candidate."
+  name             : "Adrian Rodriguez"
   pronouns         : "he/him"# example: "she/her"  
-  bio              : "Neural Network Pruning, Superposition, Regularization, and Optimization."
+  bio              : "Aspiring Ph.D. Candidate"
   location         : "Richardson, Texas"
   employer         : "The University of Texas at Dallas"
   uri              : # URL
