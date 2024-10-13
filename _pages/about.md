@@ -13,9 +13,11 @@ I'm a final year student at the University of Texas at Dallas where I study Comp
 My research interests are in neural network pruning, double descent, regularization, andoptimization. I'm also interested in
 multimodal NLP research for linguistics.
 
+I'll occasionally upload my research publications, projects, and blogs.
+
 # Current Research
 
 I'm currently working with Dr. Richard Golden, Head of the Cognitive Science Department at UT Dallas, 
 at the COINS Lab on statistical methods for pruning dense neural networks using sensitivity-based pruning.
 
-I'll occasionally upload my research publications, projects, and blogs.
+
