@@ -17,7 +17,9 @@ multimodal NLP research for linguistics using Large Language Models.
 
 # Current Research
 ## 🧮 Statistical Pruning of Parameter Redundant Neural Networks
-I'm currently working with Dr. Richard Golden, Head of the Cognitive Science Department at UT Dallas, 
-at the COINS Lab on statistical methods for pruning dense neural networks using sensitivity-based pruning.
+I'm currently working with Dr. [Richard Golden](https://personal.utdallas.edu/~golden/), Head of the Cognitive Science Department at UT Dallas, 
+at the [COINS Lab](https://labs.utdallas.edu/coinslab/) on statistical methods for pruning dense neural networks using sensitivity-based pruning.
+
+I'm the lead developer of [StatPruneNet](https://github.com/coinslab/StatPruneNet/tree/main), a benchmark tool that will evaluate sensitivty-based pruning algorithms with statistical analysis. 
 
 
