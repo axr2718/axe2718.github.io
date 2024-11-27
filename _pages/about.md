@@ -36,7 +36,7 @@ Working with Dr. [Richard Golden](https://personal.utdallas.edu/~golden/) at the
 
 # Previous Research
 ## 🔍 Topological Vision Transformers
-Collaborating with Dr. Baris Coskunuzer's [Topological Machine Learning Group](https://sites.google.com/view/topo-ml) on integrating topological data analysis with vision transformers, in particular SwinV2 transformer. Developed a novel approach achieving 10% improvement in breast cancer detection compared to baseline models and over 20% compared to topological CNNs using cross-attention between topological data analysis transformer encoders. [Code](https://github.com/axr2718/TopoVT)
+Collaborated with Dr. Baris Coskunuzer's [Topological Machine Learning Group](https://sites.google.com/view/topo-ml) on integrating topological data analysis with vision transformers, in particular SwinV2 transformer. Developed a novel approach achieving 10% improvement in breast cancer detection compared to baseline models and over 20% compared to topological CNNs using cross-attention between topological data analysis transformer encoders. [Code](https://github.com/axr2718/TopoVT)
 
 # Teaching & Mentoring
 👨‍🏫Active member of the Society for Advancement of Chicanos/Hispanics and Native Americans in Science, dedicated to mentoring underrepresented students in STEM fields.
