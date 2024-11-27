@@ -18,11 +18,7 @@ redirect_from:
 - Topological data analysis in deep learning
 - Few-shot learning and vision transformers
 
-I'm particularly fascinated by how modifying parameter spaces impacts architecture performance and generalization. My work spans computer vision, topological machine learning, and multimodal architectures.
-
-👨🏽‍💻 Research Updates & Publications:
-- 📝 "Topology Meets Deep Learning for Breast Cancer Detection" (Under Review at CVPR 2025)
-- 📚 "Statistical Pruning of Parameter Redundant Neural Networks" (In Preparation for ICML 2025)
+👨🏽‍💻 I'm particularly fascinated by how modifying parameter spaces impacts architecture performance and generalization. My work spans computer vision, topological machine learning, and multimodal architectures.
 
 # Current Research
 
@@ -43,7 +39,7 @@ Working with Dr. [Richard Golden](https://personal.utdallas.edu/~golden/) at the
 Collaborating with Dr. Baris Coskunuzer's [Topological Machine Learning Group](https://sites.google.com/view/topo-ml) on integrating topological data analysis with vision transformers, in particular SwinV2 transformer. Developed a novel approach achieving 10% improvement in breast cancer detection compared to baseline models and over 20% compared to topological CNNs using cross-attention between topological data analysis transformer encoders. [Code](https://github.com/axr2718/TopoVT)
 
 # Teaching & Mentoring
-Active member of the Society for Advancement of Chicanos/Hispanics and Native Americans in Science, dedicated to mentoring underrepresented students in STEM fields.
+👨‍🏫Active member of the Society for Advancement of Chicanos/Hispanics and Native Americans in Science, dedicated to mentoring underrepresented students in STEM fields.
 
 # Technical Skills
 💻 Programming: Python, C/C++, R, MATLAB
