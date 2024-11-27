@@ -42,7 +42,7 @@ Collaborated with Dr. Baris Coskunuzer's [Topological Machine Learning Group](ht
 👨‍🏫Active member of the Society for Advancement of Chicanos/Hispanics and Native Americans in Science, dedicated to mentoring underrepresented students in STEM fields.
 
 # Technical Skills
-💻 Programming: Python, C/C++, R, MATLAB
-🤖 ML/DL: PyTorch, TensorFlow, HuggingFace, JAX
-🛠️ Development: CUDA, Git, Linux/Unix
+💻 Programming: Python, C/C++, R, MATLAB<br>
+🤖 ML/DL: PyTorch, TensorFlow, HuggingFace, JAX<br>
+🛠️ Development: CUDA, Git, Linux/Unix<br>
 📊 Scientific: NumPy, Pandas, Matplotlib
