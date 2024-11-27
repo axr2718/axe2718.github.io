@@ -26,7 +26,7 @@ redirect_from:
 Working with [Dr. Yunhui Guo](https://yunhuiguo.github.io/) on developing rigorous benchmarks for multimodal transformers, with a focus on safety-critical applications like autonomous vehicles. Creating comprehensive evaluation frameworks using AudioSet, Kinetics, and VGGSound datasets. Currently developing novel architectures to better handle audio-visual fusion and improve performance on these benchmarks.
 
 ## 🎯 Few-Shot Learning Enhancement
-Working with [Dr. Yunhui Guo](https://yunhuiguo.github.io/) on improving cross-domain few-shot learning through topological data analysis and transformer architectures. Currently developing tuned encoder for Betti vector implementations for enhanced classification tasks using the SwinV2 backbone. [Code](https://github.com/axr2718/TopoFewShot)
+Working with [Dr. Yunhui Guo](https://yunhuiguo.github.io/) and [Dr. Baris Coskunuzer](https://personal.utdallas.edu/~coskunuz/) on improving cross-domain few-shot learning through topological data analysis and transformer architectures. Currently developing tuned encoder for Betti vector implementations for enhanced classification tasks using the SwinV2 backbone. [Code](https://github.com/axr2718/TopoFewShot)
 
 ## 🎥 Human Identification in Videos
 Collaborating with [Dr. Alice O'Toole](https://labs.utdallas.edu/facelab/) on enhancing human identification in video sequences using modified vision transformers, focusing on improving generalization and accuracy by using the SwinV2 transformer instead of the current leading ViT.
