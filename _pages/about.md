@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+[My Research Interests](/images/io.jpeg){: .align-right width="300px"}
 📖 I'm a final year student at the University of Texas at Dallas where I study Computer Science. I'm also looking to become a Ph.D. candidate.
 
 🕵🏼 My research interests are in neural network pruning, double descent, superposition, regularization, and optimization. I'm also interested in
